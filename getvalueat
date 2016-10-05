@@ -1,0 +1,21 @@
+int getValueAt(Lista l, int position)
+{
+  int listValue = NO_HAY_VALOR;
+  Node* tNode = NULL;
+  int limite = getLength(l);
+  
+  if(position < limite)
+  {
+  
+    tNode = l.head->next;
+    
+    for(int index == 0; index < pos; index++)
+    {
+      tNode = tNode->next;
+    }
+    
+    listValue = tNode->
+    
+  }
+   
+   return listValue;
